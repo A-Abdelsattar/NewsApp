@@ -60,7 +60,7 @@ class AppRoot extends StatelessWidget {
                               type: BottomNavigationBarType.fixed,
                               selectedItemColor: Colors.indigo),
                       textTheme: const TextTheme(
-                          bodyText1: TextStyle(
+                          displaySmall: TextStyle(
                               fontSize: 20,
                               fontWeight: FontWeight.w600,
                               color: Colors.black)),
@@ -85,7 +85,7 @@ class AppRoot extends StatelessWidget {
                                 elevation: 20,
                                 selectedItemColor: Colors.indigo),
                         textTheme: const TextTheme(
-                            bodyText1: TextStyle(
+                            displaySmall: TextStyle(
                                 fontSize: 20,
                                 fontWeight: FontWeight.w600,
                                 color: Colors.white))),

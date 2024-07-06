@@ -32,16 +32,15 @@ dependencies:
   flutter:
     sdk: flutter
   # blocs
-  flutter_bloc: ^8.1.1
-  bloc: ^8.1.0
+  flutter_bloc: ^8.1.6
+  bloc: ^8.1.4
   # service
-  shared_preferences: ^2.0.15
-  dio: ^4.0.6
-  flutter_screenutil: ^5.6.0
-  flutter_offline: "^2.1.0"
-  cached_network_image: ^3.2.3
-  intl: ^0.18.0
-  webview_flutter: ^4.0.2
+  shared_preferences: ^2.2.3
+  dio: ^5.5.0+1
+  flutter_screenutil: ^5.9.3
+  flutter_offline: ^3.0.1
+  cached_network_image: ^3.3.1
+  intl: ^0.19.0
 
 
   # The following adds the Cupertino Icons font to your application.
